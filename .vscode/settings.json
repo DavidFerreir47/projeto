@@ -32,6 +32,7 @@
     "Git Bash": {
       "source": "Git Bash"
     }
-  }
+  },
+  "liveServer.settings.port": 5501
   // "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
